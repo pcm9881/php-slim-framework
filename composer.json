@@ -1,0 +1,12 @@
+{
+    "name": "pcm/php-test",
+    "authors": [
+        {
+            "name": "11",
+            "email": "11@kross.kr"
+        }
+    ],
+    "require": {
+        "slim/slim": "^3.0"
+    }
+}
